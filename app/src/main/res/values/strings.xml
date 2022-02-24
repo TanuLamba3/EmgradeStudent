@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="get_started"><br>" This is sample text. \n</br>
+    <br>This place with contain \n</br>
+        <br>text related to \n</br>
+        <br>testimonials or education \n</br>
+        <br>related motivational \n</br>
+        <br>quotes" \n</br>
+    </string>
+    <string name="welcome"><br>Welcome!</br>
+    <br>Name</br>
+    </string>
+    <string name="student_main"><br>Tutor: Name</br>
+    <br>SubjectName</br>
+    </string>
+
+</resources>
